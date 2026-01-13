@@ -34,14 +34,9 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=preranamaiti&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preranamaiti&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=preranamaiti&theme=tokyonight)
-
-
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=preranamaiti&show_icons=true&theme=github_dark&cache_seconds=1800)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preranamaiti&layout=compact&theme=github_dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=preranamaiti&theme=github_dark)
 
 ---
 

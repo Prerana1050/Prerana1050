@@ -30,18 +30,6 @@
   
 </p>
 
----
-
-## 📊 GitHub Stats
-
-![Repos](https://img.shields.io/badge/dynamic/json?color=black&label=Public%20Repos&query=$.public_repos&url=https://api.github.com/users/preranamaiti)
-![Followers](https://img.shields.io/github/followers/preranamaiti?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/preranamaiti?affiliations=OWNER&style=social)
-
-
-
----
-
 ## 📫 Connect with Me
 
 <p align="left">

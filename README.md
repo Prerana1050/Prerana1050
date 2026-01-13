@@ -32,11 +32,15 @@
 
 ---
 
-## 📈 GitHub Stats
+\\
+## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=preranamaiti&show_icons=true&theme=github_dark&cache_seconds=1800)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preranamaiti&layout=compact&theme=github_dark)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=preranamaiti&theme=github_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=preranamaiti&show_icons=true&theme=dark&hide_border=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preranamaiti&layout=compact&theme=dark&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=preranamaiti&theme=dark&hide_border=true)
+
 
 ---
 

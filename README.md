@@ -35,8 +35,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prerana1050&show_icons=true&theme=github_dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prerana1050&layout=compact&theme=github_dark" height="180"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prerana1050&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prerana1050&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prerana1050&theme=tokyonight)
+
 
 </p>
 
